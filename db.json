@@ -1,0 +1,56 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "This is a great Stream!",
+      "id": 1
+    },
+    {
+      "title": "Stream 2 ",
+      "description": "This is a great Stream number 2!",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "This is a great Stream number 3!",
+      "id": 3
+    },
+    {
+      "title": "Stream 4",
+      "description": "This is stream number 4.",
+      "id": 4
+    },
+    {
+      "title": "Stream 5",
+      "description": "This is stream number 5.",
+      "id": 5
+    },
+    {
+      "title": "Stream 6",
+      "description": "This is stream number 6.",
+      "id": 6
+    },
+    {
+      "title": "Stream 7",
+      "description": "This is stream number 7.",
+      "id": 7
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 13
+    },
+    {
+      "title": "Another new stream",
+      "description": "yeah new stream",
+      "userId": "116829385161110899706",
+      "id": 14
+    },
+    {
+      "title": "some stream",
+      "description": "some stream description",
+      "userId": "116829385161110899706",
+      "id": 15
+    }
+  ]
+}
